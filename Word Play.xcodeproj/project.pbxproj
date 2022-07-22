@@ -11,6 +11,7 @@
 		10B1C0A62889A84700E6FA77 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10B1C0A52889A84700E6FA77 /* ContentView.swift */; };
 		10B1C0A82889A84E00E6FA77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10B1C0A72889A84E00E6FA77 /* Assets.xcassets */; };
 		10B1C0AB2889A84E00E6FA77 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10B1C0AA2889A84E00E6FA77 /* Preview Assets.xcassets */; };
+		10B1C0B22889ADA400E6FA77 /* StoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10B1C0B12889ADA400E6FA77 /* StoryView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		10B1C0A52889A84700E6FA77 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		10B1C0A72889A84E00E6FA77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		10B1C0AA2889A84E00E6FA77 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		10B1C0B12889ADA400E6FA77 /* StoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				10B1C0A32889A84700E6FA77 /* Word_PlayApp.swift */,
 				10B1C0A52889A84700E6FA77 /* ContentView.swift */,
+				10B1C0B12889ADA400E6FA77 /* StoryView.swift */,
 				10B1C0A72889A84E00E6FA77 /* Assets.xcassets */,
 				10B1C0A92889A84E00E6FA77 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				10B1C0B22889ADA400E6FA77 /* StoryView.swift in Sources */,
 				10B1C0A62889A84700E6FA77 /* ContentView.swift in Sources */,
 				10B1C0A42889A84700E6FA77 /* Word_PlayApp.swift in Sources */,
 			);
